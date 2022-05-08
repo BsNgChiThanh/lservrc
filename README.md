@@ -64,4 +64,6 @@ Download [lservrc tại đây](https://pwht-my.sharepoint.com/:u:/g/personal/a31
 
 **[Trang hướng dẫn cài đặt, source, và từng bước chinh phục SPSS](https://github.com/BsNgChiThanh/SPSS)**
 
+**[Chia sẻ địa điểm Google map](https://maps.app.goo.gl/wmAPRFYyF3nNeHd87)**
+
 ### Chúc các bạn thành công! ###
