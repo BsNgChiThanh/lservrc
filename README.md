@@ -45,7 +45,7 @@ Dán vào **Notepad**, bấm **save**
 
 Khởi động máy trở lại, mở phần mềm SPSS lên để tận hưởng!
 
-Download [lservrc tại đây](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EZjt0kTeYp1Mm8JuEqInPiwBFtZpSnqG35_GYPLGA7Wi1g?e=20jSRx) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ER_2xFzM4FRPoBdhr9bFXEcB5O197OPmL9bSHPSHJXnL-A?e=YIwTPT) không có nội dung, xong mở file lservrc đó bằng **Notepad** chép mã  từ file **txt** chia sẻ bên dưới  đây vào (nhớ chọn đúng version của SPSS), **save** lại là có ngay file crack như ý!
+### Download [lservrc tại đây](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EZjt0kTeYp1Mm8JuEqInPiwBFtZpSnqG35_GYPLGA7Wi1g?e=20jSRx) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ER_2xFzM4FRPoBdhr9bFXEcB5O197OPmL9bSHPSHJXnL-A?e=YIwTPT) không có nội dung, xong mở file lservrc đó bằng **Notepad** chép mã  từ file **txt** chia sẻ bên dưới  đây vào (nhớ chọn đúng version của SPSS), **save** lại là có ngay file crack như ý! ###
 
 # MỘT SỐ ĐOẠN MÃ CỦA lservrc #
 
