@@ -50,7 +50,7 @@ Download [lservrc tại đây](https://pwht-my.sharepoint.com/:u:/g/personal/a31
 # MỘT SỐ ĐOẠN MÃ CỦA lservrc #
 
 |SPSS Version|đoạn mã code cần dán vào Notepad|
-|--|--|--|
+|--|--|
 |SPSS 20| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646761/lservrc.txt)|
 |SPSS 21|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646769/lservrc.txt) |
 |SPSS 22| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646772/lservrc.txt)|
