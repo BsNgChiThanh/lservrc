@@ -60,4 +60,8 @@ Download [lservrc tại đây](https://pwht-my.sharepoint.com/:u:/g/personal/a31
 |SPSS 26|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646781/lservrc.txt)|
 |SPSS 27| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646783/lservrc.txt) hoặc [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646787/lservrc.txt) |
 
+**[Xem Video về cách tạo](https://youtu.be/5EFncQOfRvY)**
+
+**[Trang hướng dẫn cài đặt, source, và từng bước chinh phục SPSS](https://github.com/BsNgChiThanh/SPSS)**
+
 ### Chúc các bạn thành công! ###
