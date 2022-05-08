@@ -3,7 +3,7 @@ Tự tạo file lservrc để kích hoạt SPSS version từ 20 đến 27 bằng
 
 Đang cập nhật, chưa làm xong.
 
-# GIỚI THIỆU #
+# GIỚI THIỆU # 
 
 Phần mềm SPSS phục vụ nghiên cứu khoa học, làm luận văn tốt nghiệp khá nổi tiếng, chi phí mua phần mềm rất cao, vì thế bạn phải crack nhưng đôi lúc tìm file crack hoặc key bẻ khóa rất khó. Chính vì vậy tôi đề xuất một giải pháp là bạn tự tạo ra file crack để phục vụ cho chính mình.
 
@@ -45,19 +45,19 @@ Dán vào **Notepad**, bấm **save**
 
 Khởi động máy trở lại, mở phần mềm SPSS lên để tận hưởng!
 
-Download [lservrc tại đây](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EZjt0kTeYp1Mm8JuEqInPiwBFtZpSnqG35_GYPLGA7Wi1g?e=20jSRx) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ER_2xFzM4FRPoBdhr9bFXEcB5O197OPmL9bSHPSHJXnL-A?e=YIwTPT) không có nội dung, xong mở Notepad chép mã vào save lại là có ngay file crack như ý!
+Download [lservrc tại đây](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EZjt0kTeYp1Mm8JuEqInPiwBFtZpSnqG35_GYPLGA7Wi1g?e=20jSRx) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ER_2xFzM4FRPoBdhr9bFXEcB5O197OPmL9bSHPSHJXnL-A?e=YIwTPT) không có nội dung, xong mở Notepad chép mã  từ file txt dưới đây vào, save lại là có ngay file crack như ý!
 
 # MỘT SỐ ĐOẠN MÃ CỦA lservrc #
 
-|SPSS Version|đoạn mã code cần dán vào Notepad| File lservrc tạo sẵn|
+|SPSS Version|đoạn mã code cần dán vào Notepad|
 |--|--|--|
-|SPSS 20|4B6MINO86Z4LZV9AA7GHEC89P5TRNTOHAA3XKX5YW7GM2SWHCCTAFYBL3B3IKPMM7I9N3MSTBXOO8VPKXZHSEXGST8||  
-|SPSS 21|QA3AW8U62Z4ZWTSPV44VXI65P59OLE547WHIQVZYWLARL9JEYQEGDUBLH8Z3ZCJAL3FLXMS98V95TSDYI7FOEXUPRR# "1200" version "210", no expiration date, exclusive| 
-|SPSS 22|9DNCAF2O3QVDV7FBIO696OO6GWLNXZPPRYTPWF2PPX7C8T6Y24LMVV2ET7DOLX5CXAL5YDLL79UPGEFCPDXP5Q8O5E| 
-|SPSS 23|VDOV7M8KUEIAWBZIKPP6DUKX4JIO3LWRSJQW4BTDCU5NS28ZLZSSROOZQ8HASZ6VUHRZRZ8I8DGWIFY9WJTIRD5P9Y| 
-|SPSS 24|KLY76DO3FVLOHZORYZSY66NKAMBMUOW5AT7J5GEN5AUE5WDY4YEC4PGOCODL236QF86LJK8XXUI73WT4TZEI3M92CP# "1200" version "240", no expiration date, exclusive|| 
-|SPSS 25| Notepad gồm 2 dòng, dòng đầu tiên là 2 dấu nháy: " "    dòng thứ 2 copy đoạn mã: 3HIWEMS7XBWVXO8MYJJ82TAN7X7FZOOZKK37SK6M4HS6VYPF58CW9YPWD69ITNPUOHTZ3X6W5JBA5JHOD58MCXT7F9 ảnh minh họa NotePad ![111](https://user-images.githubusercontent.com/82578024/167288896-288c6f82-5798-4c8a-9051-9897457d22f5.gif)|  
-|SPSS 26|5QQKZICZTE7RNC7JLPEXLTPFLJFBPIB67JNGJZVWJUYQ98YK2ZVINWM768YEZ7LVHHJYL7FP5D2C6UNWGJCT6WTPFYR7EDWGB2IMH64C3E4HY9N35P2QALF# "1200" version "260", expires Midnight of Dec 31, 2099, exclusive|| 
-|SPSS 27|*AAAQT323AYRFUSK3NHXQMUNWFNIBAX49SAFVHTZ68QFW9FRD34XESOKUKKVYACOIFLQTANCT6BIULVD363RMLO4RVW9CP#R4NDOMJ0E| 
-||Hoặc||
-|| Notepad gồm 2 dòng, dòng đầu tiên là 2 dấu nháy: " "    dòng thứ 2 copy đoạn mã: 3HIWEMS7XBWVXO8MYJJ82TAN7X7FZOOZKK37SK6M4HS6VYPF58CW9YPWD69ITNPUOHTZ3X6W5JBA5JHOD58MCXT7F9 ảnh minh họa NotePad ![111](https://user-images.githubusercontent.com/82578024/167288973-cdc6ff39-5d08-42a6-b2c5-b42441a3db2d.gif)| 
+|SPSS 20| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646761/lservrc.txt)|
+|SPSS 21|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646769/lservrc.txt) |
+|SPSS 22| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646772/lservrc.txt)|
+|SPSS 23| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646774/lservrc.txt)|
+|SPSS 24|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646775/lservrc.txt)|
+|SPSS 25| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646778/lservrc.txt)|
+|SPSS 26|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646781/lservrc.txt)|
+|SPSS 27| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646783/lservrc.txt) hoặc [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646787/lservrc.txt) |
+
+### Chúc các bạn thành công! ###
