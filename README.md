@@ -49,16 +49,16 @@ Khởi động máy trở lại, mở phần mềm SPSS lên để tận hưởn
 
 # MỘT SỐ ĐOẠN MÃ CỦA lservrc #
 
-|SPSS Version|đoạn mã code cần dán vào Notepad|
-|--|--|
-|SPSS 20| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646761/lservrc.txt)|
-|SPSS 21|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646769/lservrc.txt) |
-|SPSS 22| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646772/lservrc.txt)|
-|SPSS 23| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646774/lservrc.txt)|
-|SPSS 24|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646775/lservrc.txt)|
-|SPSS 25| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646778/lservrc.txt)|
-|SPSS 26|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646781/lservrc.txt)|
-|SPSS 27| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646783/lservrc.txt)|
+|SPSS Version|Đoạn mã code cần dán vào Notepad|Key code active|
+|--|--|--|
+|SPSS 20| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646761/lservrc.txt)|[Key code SPSS 20.txt](https://github.com/BsNgChiThanh/lservrc/files/8650507/Key.code.SPSS.20.txt)|
+|SPSS 21|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646769/lservrc.txt) |[Key code SPSS 21.txt](https://github.com/BsNgChiThanh/lservrc/files/8650516/Key.code.SPSS.21.txt)|
+|SPSS 22| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646772/lservrc.txt)|[Key code SPSS 22.txt](https://github.com/BsNgChiThanh/lservrc/files/8650517/Key.code.SPSS.22.txt)|
+|SPSS 23| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646774/lservrc.txt)|[Key code SPSS 23.txt](https://github.com/BsNgChiThanh/lservrc/files/8650528/Key.code.SPSS.23.txt)|
+|SPSS 24|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646775/lservrc.txt)|[Key code SPSS 24.txt](https://github.com/BsNgChiThanh/lservrc/files/8650529/Key.code.SPSS.24.txt)|
+|SPSS 25| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646778/lservrc.txt)|[Key code SPSS 25.txt](https://github.com/BsNgChiThanh/lservrc/files/8650530/Key.code.SPSS.25.txt)|
+|SPSS 26|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646781/lservrc.txt)|[Key code SPSS 26.txt](https://github.com/BsNgChiThanh/lservrc/files/8650531/Key.code.SPSS.26.txt)|
+|SPSS 27| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646783/lservrc.txt)|[Key code SPSS 27.txt](https://github.com/BsNgChiThanh/lservrc/files/8650533/Key.code.SPSS.27.txt)|
 
 **[Xem Video về cách tạo](https://youtu.be/5EFncQOfRvY)**
 
