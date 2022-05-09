@@ -58,7 +58,7 @@ Khởi động máy trở lại, mở phần mềm SPSS lên để tận hưởn
 |SPSS 24|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646775/lservrc.txt)|
 |SPSS 25| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646778/lservrc.txt)|
 |SPSS 26|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646781/lservrc.txt)|
-|SPSS 27| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646783/lservrc.txt) hoặc [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646787/lservrc.txt) |
+|SPSS 27| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646783/lservrc.txt)|
 
 **[Xem Video về cách tạo](https://youtu.be/5EFncQOfRvY)**
 
