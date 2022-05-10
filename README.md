@@ -1,8 +1,6 @@
 # lservrc
 Tự tạo file lservrc để kích hoạt SPSS version từ 20 đến 27 bằng Notepad
 
-Đang cập nhật, chưa làm xong.
-
 # GIỚI THIỆU # 
 
 Phần mềm SPSS phục vụ nghiên cứu khoa học, làm luận văn tốt nghiệp khá nổi tiếng, chi phí mua phần mềm rất cao, vì thế bạn phải crack nhưng đôi lúc tìm file crack hoặc key bẻ khóa rất khó. Chính vì vậy tôi đề xuất một giải pháp là bạn tự tạo ra file crack để phục vụ cho chính mình.
