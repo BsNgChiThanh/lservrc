@@ -11,9 +11,15 @@ Ví dụ tôi đang cài đặt bản SPSS 23:
 
 Tôi vào đường dẫn
 
-C:\Program Files (x86)\IBM\SPSS\Statistics\23 hoặc
+```php
+C:\Program Files (x86)\IBM\SPSS\Statistics\23
+```
 
+Hoặc
+
+```php
 C:\Program Files\IBM\SPSS\Statistics\23
+```
 
 Gỏ tìm file lservrc và copy nó ra màn hình desktop, bạn cũng có thể cho nó vào chỗ nào đó tùy thích.
 
