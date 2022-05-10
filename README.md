@@ -31,7 +31,9 @@ Dùng Notepad mở nó lên bằng cách bấm chuột phải vào file và ch�
 
 Copy đoạn mã:
 
+```php
 VDOV7M8KUEIAWBZIKPP6DUKX4JIO3LWRSJQW4BTDCU5NS28ZLZSSROOZQ8HASZ6VUHRZRZ8I8DGWIFY9WJTIRD5P9Y
+```
 
 Dán vào **Notepad**, bấm **save**
 
