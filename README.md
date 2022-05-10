@@ -58,7 +58,7 @@ Khởi động máy trở lại, mở phần mềm SPSS lên để tận hưởn
 |SPSS 24|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646775/lservrc.txt)|[Key code SPSS 24.txt](https://github.com/BsNgChiThanh/lservrc/files/8650529/Key.code.SPSS.24.txt)|
 |SPSS 25| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646778/lservrc.txt)|[Key code SPSS 25.txt](https://github.com/BsNgChiThanh/lservrc/files/8650530/Key.code.SPSS.25.txt)|
 |SPSS 26|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646781/lservrc.txt)|[Key code SPSS 26.txt](https://github.com/BsNgChiThanh/lservrc/files/8650531/Key.code.SPSS.26.txt)|
-|SPSS 27| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646783/lservrc.txt)|[Key code SPSS 27.txt](https://github.com/BsNgChiThanh/lservrc/files/8650533/Key.code.SPSS.27.txt)|
+|SPSS 27|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8658693/lservrc.txt)|[Key code SPSS 27.txt](https://github.com/BsNgChiThanh/lservrc/files/8658696/Key.code.SPSS.27.txt)|
 
 **[Xem Video về cách tạo](https://youtu.be/5EFncQOfRvY)**
 
