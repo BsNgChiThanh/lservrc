@@ -66,7 +66,7 @@ https://user-images.githubusercontent.com/82578024/167621556-9bdd0c35-5af3-4e62-
 |SPSS 22| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646772/lservrc.txt)|[Key code SPSS 22.txt](https://github.com/BsNgChiThanh/lservrc/files/8650517/Key.code.SPSS.22.txt)|
 |SPSS 23| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646774/lservrc.txt)|[Key code SPSS 23.txt](https://github.com/BsNgChiThanh/lservrc/files/8650528/Key.code.SPSS.23.txt)|
 |SPSS 24|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646775/lservrc.txt)|[Key code SPSS 24.txt](https://github.com/BsNgChiThanh/lservrc/files/8650529/Key.code.SPSS.24.txt)|
-|SPSS 25| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646778/lservrc.txt)|[Key code SPSS 25.txt](https://github.com/BsNgChiThanh/lservrc/files/8650530/Key.code.SPSS.25.txt)|
+|SPSS 25|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8665249/lservrc.txt)|[Key code SPSS 25.txt](https://github.com/BsNgChiThanh/lservrc/files/8650530/Key.code.SPSS.25.txt)|
 |SPSS 26|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646781/lservrc.txt)|[Key code SPSS 26.txt](https://github.com/BsNgChiThanh/lservrc/files/8650531/Key.code.SPSS.26.txt)|
 |SPSS 27|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8658693/lservrc.txt)|[Key code SPSS 27.txt](https://github.com/BsNgChiThanh/lservrc/files/8658696/Key.code.SPSS.27.txt)|
 
