@@ -53,7 +53,7 @@ Khởi động máy trở lại, mở phần mềm SPSS lên để tận hưởn
 
 Xem Video!
 
-[Xem video tạo file Crack](https://youtu.be/5EFncQOfRvY)
+https://user-images.githubusercontent.com/82578024/167621556-9bdd0c35-5af3-4e62-8a2b-4143aa964b5c.mp4
 
 ### Download [lservrc tại đây](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EZjt0kTeYp1Mm8JuEqInPiwBFtZpSnqG35_GYPLGA7Wi1g?e=20jSRx) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ER_2xFzM4FRPoBdhr9bFXEcB5O197OPmL9bSHPSHJXnL-A?e=YIwTPT) không có nội dung, xong mở file lservrc đó bằng **Notepad** chép mã  từ file **txt** chia sẻ bên dưới  đây vào (nhớ chọn đúng version của SPSS), **save** lại là có ngay file crack như ý! ###
 
@@ -70,7 +70,7 @@ Xem Video!
 |SPSS 26|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646781/lservrc.txt)|[Key code SPSS 26.txt](https://github.com/BsNgChiThanh/lservrc/files/8650531/Key.code.SPSS.26.txt)|
 |SPSS 27|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8658693/lservrc.txt)|[Key code SPSS 27.txt](https://github.com/BsNgChiThanh/lservrc/files/8658696/Key.code.SPSS.27.txt)|
 
-[Xem video Crack SPSS 27!](https://www.youtube.com/watch?v=m-ipvre2SpI&t=14s)
+https://user-images.githubusercontent.com/82578024/167621709-74e0f636-98f8-4f39-9262-b7fff96a11e6.mp4
 
 **[Trang hướng dẫn cài đặt, source, và từng bước chinh phục SPSS](https://github.com/BsNgChiThanh/SPSS)**
 
