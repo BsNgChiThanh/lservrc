@@ -72,16 +72,11 @@ https://user-images.githubusercontent.com/82578024/167621556-9bdd0c35-5af3-4e62-
 |SPSS 25|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8665249/lservrc.txt)|[Key code SPSS 25.txt](https://github.com/BsNgChiThanh/lservrc/files/8650530/Key.code.SPSS.25.txt)|
 |SPSS 26|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646781/lservrc.txt)|[Key code SPSS 26.txt](https://github.com/BsNgChiThanh/lservrc/files/8650531/Key.code.SPSS.26.txt)|
 |SPSS 27|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8658693/lservrc.txt)|[Key code SPSS 27.txt](https://github.com/BsNgChiThanh/lservrc/files/8658696/Key.code.SPSS.27.txt)|
-|SPSS 28|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8669668/lservrc.txt)|[Key.code.SPSS.28.txt](https://github.com/BsNgChiThanh/lservrc/files/8669669/Key.code.SPSS.28.txt)|
+|SPSS 28|| [Key code SPSS 28.txt](https://github.com/BsNgChiThanh/lservrc/files/8674493/Key.code.SPSS.28.txt)|
 
 **Notes:**
 - **SPSS 28 date 31/8/2022**
-
-- File **lservrc** của SPSS 28 nằm trong thư mục:
-
-```php
-C:\Program Files\IBM\SPSS Statistics
-```
+- **Chúng tôi thường xuyên cập nhật code**
 
 https://user-images.githubusercontent.com/82578024/167621709-74e0f636-98f8-4f39-9262-b7fff96a11e6.mp4
 
