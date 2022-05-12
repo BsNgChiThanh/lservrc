@@ -1,5 +1,5 @@
 # lservrc
-Tự tạo file lservrc để kích hoạt SPSS version từ 20 đến 28 bằng Notepad
+Tự tạo file lservrc để kích hoạt SPSS version từ 20 đến 27 bằng Notepad
 
 **[Telegram group](https://t.me/+hBZ3F71j8OIxODFl)**
 
