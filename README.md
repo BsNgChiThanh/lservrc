@@ -71,9 +71,14 @@ SPSS 20
 SPSS 21
 
 ```php
-
+QA3AW8U62Z4ZWTSPV44VXI65P59OLE547WHIQVZYWLARL9JEYQEGDUBLH8Z3ZCJAL3FLXMS98V95TSDYI7FOEXUPRR# "1200" version "210", no expiration date, exclusive
 ```
 
+SPSS 22
+
+```php
+
+```
 
 |SPSS Version|Đoạn mã code cần dán vào Notepad|Key code active|
 |--|--|--|
