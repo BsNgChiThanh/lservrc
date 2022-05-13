@@ -72,6 +72,7 @@ SPSS 21
 
 ```php
 
+```
 
 
 |SPSS Version|Đoạn mã code cần dán vào Notepad|Key code active|
