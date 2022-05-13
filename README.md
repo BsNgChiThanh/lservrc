@@ -232,8 +232,21 @@ HFAJHU3XZBEWULYLJP4KWJXF8HHIK8BF8BQC47EIZFWTRYHTCQEP9ZF3I6DJK2TF948PPCPZCPDMU7QA
 
 SPSS 27
 
+Key: 
 
+```php
+DH7Z2WU8OD5UARBZEMK5ZKWJT8BG935JYRPVMM5D4DB8TPBEXB9X6TET4KI3KK9HE68MNQYU2V7Z8VTN72L36BYALD7CE7ZV6PW
+```
 
+SPSS 28 
+
+Chỉ có code kích hoạt đến 31/8/2022, khi tìm được code mới tôi sẽ update cho các bạn!
+
+Code:
+
+```php
+
+```
 
 
 |SPSS Version|Đoạn mã code cần dán vào Notepad|Key code active|
