@@ -62,6 +62,18 @@ https://user-images.githubusercontent.com/82578024/167621556-9bdd0c35-5af3-4e62-
 
 # MỘT SỐ ĐOẠN MÃ CỦA lservrc #
 
+SPSS 20
+
+```php
+4B6MINO86Z4LZV9AA7GHEC89P5TRNTOHAA3XKX5YW7GM2SWHCCTAFYBL3B3IKPMM7I9N3MSTBXOO8VPKXZHSEXGST8
+```
+
+SPSS 21
+
+```php
+
+
+
 |SPSS Version|Đoạn mã code cần dán vào Notepad|Key code active|
 |--|--|--|
 |SPSS 20| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646761/lservrc.txt)|[Key code SPSS 20.txt](https://github.com/BsNgChiThanh/lservrc/files/8650507/Key.code.SPSS.20.txt)|
