@@ -130,7 +130,21 @@ SPSS 28 có đoạn mã nhưng làm theo cách này không thành công, đưa r
 
 ```
 
+# MỘT SỐ CODE, LICENCE KEY KÍCH HOẠT TRỰC TIẾP #
 
+SPSS 20
+
+Code:
+
+```php
+285DD4CD2854F4E67605
+```
+
+Key: 
+
+```php
+4B6MINO86Z4LZV9AA7GHEC89P5TRNTOHAA3XKX5YW7GM2SWHCCTAFYBL3B3IKPMM7I9N3MSTBXOO8VPKXZHSEXGST8
+```
 
 
 
