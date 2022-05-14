@@ -140,6 +140,11 @@ Code:
 ```php
 285DD4CD2854F4E67605
 ```
+Hoặc:
+
+```php
+fd774ea8003a2621cfb7
+```
 
 Key: 
 
