@@ -284,7 +284,7 @@ d13d1c0ecc6b416626d6
 fd774ea8003a2621cfb7
 ```
 
-Một điều lưu ý, khi kích hoạt SPSS 28 cùng một code nhưng mỗi máy hiện lên mỗi key khác nhau, bạn copy key này lưu lại thì chỉ có thể active được lần sau nếu bạn cài lại SPSS 28 mà vẫn trong thời hạn sử dụng cho phép. Chính vì điều này rất khó bé khóa bằng file **lservrc!**
+Một điều lưu ý, khi kích hoạt SPSS 28 cùng một code nhưng mỗi máy hiện lên mỗi key khác nhau, bạn copy key này lưu lại thì chỉ có thể active được lần sau nếu bạn cài lại SPSS 28 mà vẫn trong thời hạn sử dụng cho phép, nếu key copy từ máy này mang sang máy khác thì không kích hoạt được chỉ duy nhất nhập code mà thôi. Chính vì điều này rất khó bé khóa bằng file **lservrc!**
 
 https://user-images.githubusercontent.com/82578024/167621709-74e0f636-98f8-4f39-9262-b7fff96a11e6.mp4
 
