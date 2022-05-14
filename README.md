@@ -62,37 +62,37 @@ https://user-images.githubusercontent.com/82578024/167621556-9bdd0c35-5af3-4e62-
 
 # MỘT SỐ ĐOẠN MÃ CỦA lservrc #
 
-SPSS 20
+**SPSS 20**
 
 ```php
 4B6MINO86Z4LZV9AA7GHEC89P5TRNTOHAA3XKX5YW7GM2SWHCCTAFYBL3B3IKPMM7I9N3MSTBXOO8VPKXZHSEXGST8
 ```
 
-SPSS 21
+**SPSS 21**
 
 ```php
 QA3AW8U62Z4ZWTSPV44VXI65P59OLE547WHIQVZYWLARL9JEYQEGDUBLH8Z3ZCJAL3FLXMS98V95TSDYI7FOEXUPRR# "1200" version "210", no expiration date, exclusive
 ```
 
-SPSS 22
+**SPSS 22**
 
 ```php
 9DNCAF2O3QVDV7FBIO696OO6GWLNXZPPRYTPWF2PPX7C8T6Y24LMVV2ET7DOLX5CXAL5YDLL79UPGEFCPDXP5Q8O5E
 ```
 
-SPSS 23
+**SPSS 23**
 
 ```php
 VDOV7M8KUEIAWBZIKPP6DUKX4JIO3LWRSJQW4BTDCU5NS28ZLZSSROOZQ8HASZ6VUHRZRZ8I8DGWIFY9WJTIRD5P9Y
 ```
 
-SPSS 24
+**SPSS 24**
 
 ```php
 KLY76DO3FVLOHZORYZSY66NKAMBMUOW5AT7J5GEN5AUE5WDY4YEC4PGOCODL236QF86LJK8XXUI73WT4TZEI3M92CP# "1200" version "240", no expiration date, exclusive
 ```
 
-SPSS 25
+*"SPSS 25**
 
 ```php
 L4NPDW44MDCZASP5B4AGY7WC2FOHSUX5UHVTAK4E9IZZMSONPMBSPBTDPKNVCNX226TYGAFOEWGPRTP9GASUXOXT6RTYBKN5ELK# "1200" version "250", expires Midnight of Sep 30, 2099, exclusive
@@ -105,13 +105,13 @@ Hoặc:
 3HIWEMS7XBWVXO8MYJJ82TAN7X7FZOOZKK37SK6M4HS6VYPF58CW9YPWD69ITNPUOHTZ3X6W5JBA5JHOD58MCXT7F9
 ```
 
-SPSS 26
+**SPSS 26**
 
 ```php
 5QQKZICZTE7RNC7JLPEXLTPFLJFBPIB67JNGJZVWJUYQ98YK2ZVINWM768YEZ7LVHHJYL7FP5D2C6UNWGJCT6WTPFYR7EDWGB2IMH64C3E4HY9N35P2QALF# "1200" version "260", expires Midnight of Dec 31, 2099, exclusive
 ```
 
-SPSS 27
+**SPSS 27**
 
 ```php
 *AAAQT323AYRFUSK3NHXQMUNWFNIBAX49SAFVHTZ68QFW9FRD34XESOKUKKVYACOIFLQTANCT6BIULVD363RMLO4RVW9CP#R4NDOMJ0E
@@ -132,7 +132,7 @@ SPSS 28 có đoạn mã nhưng làm theo cách này không thành công, đưa r
 
 # MỘT SỐ CODE, LICENCE KEY KÍCH HOẠT TRỰC TIẾP #
 
-SPSS 20
+**SPSS 20**
 
 Code:
 
@@ -146,7 +146,7 @@ Key:
 4B6MINO86Z4LZV9AA7GHEC89P5TRNTOHAA3XKX5YW7GM2SWHCCTAFYBL3B3IKPMM7I9N3MSTBXOO8VPKXZHSEXGST8
 ```
 
-SPSS 21
+**SPSS 21**
 
 Key: 
 
@@ -154,7 +154,7 @@ Key:
 QA3AW8U62Z4ZWTSPV44VXI65P59OLE547WHIQVZYWLARL9JEYQEGDUBLH8Z3ZCJAL3FLXMS98V95TSDYI7FOEXUPRR
 ```
 
-SPSS 22
+**SPSS 22**
 
 Key: 
 
@@ -168,7 +168,7 @@ Hoặc
 HCCTAFYBL3B3IKPMM7I9N3MSTBXOO8VPKXZHSEXGST8
 ```
 
-SPSS 23
+**SPSS 23**
 
 Key:
 
@@ -182,7 +182,7 @@ Hoặc:
 WUA6REDCUTEMDDOIXG4TEHGWT7NBGM2MKWWEF7AHHZQUNVFI68DWILOE4Z9576SK6L34JHQPFVOOLNJTN8
 ```
 
-SPSS 24
+**SPSS 24**
 
 Key:
 
@@ -196,7 +196,7 @@ Hoặc:
 9DNCAF2O3QVDV7FBIO696OO6GWLNXZPPRYTPWF2PPX7C8T6Y24LMVV2ET7DOLX5CXAL5YDLL79UPGEFCPDXP5Q8O5E 
 ```
 
-SPSS 25
+**SPSS 25**
 
 Key:
 
@@ -222,7 +222,7 @@ Hoặc:
 MI2QM22I1KP6V9L8DHS6T2MOFL5MPNSEXTH4SYT2470U3WO
 ```
 
-SPSS 26
+**SPSS 26**
 
 Key:
 
@@ -230,7 +230,7 @@ Key:
 HFAJHU3XZBEWULYLJP4KWJXF8HHIK8BF8BQC47EIZFWTRYHTCQEP9ZF3I6DJK2TF948PPCPZCPDMU7QAN95BL93CJ24XBDIA3GH
 ```
 
-SPSS 27
+**SPSS 27**
 
 Key: 
 
@@ -238,32 +238,15 @@ Key:
 DH7Z2WU8OD5UARBZEMK5ZKWJT8BG935JYRPVMM5D4DB8TPBEXB9X6TET4KI3KK9HE68MNQYU2V7Z8VTN72L36BYALD7CE7ZV6PW
 ```
 
-SPSS 28 
+**SPSS 28**
 
 Chỉ có code kích hoạt đến 31/8/2022, khi tìm được code mới tôi sẽ update cho các bạn!
 
 Code:
 
 ```php
-
+ca5f076ad01a908aca85
 ```
-
-
-|SPSS Version|Đoạn mã code cần dán vào Notepad|Key code active|
-|--|--|--|
-|SPSS 20| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646761/lservrc.txt)|[Key code SPSS 20.txt](https://github.com/BsNgChiThanh/lservrc/files/8650507/Key.code.SPSS.20.txt)|
-|SPSS 21|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646769/lservrc.txt) |[Key code SPSS 21.txt](https://github.com/BsNgChiThanh/lservrc/files/8650516/Key.code.SPSS.21.txt)|
-|SPSS 22| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646772/lservrc.txt)|[Key code SPSS 22.txt](https://github.com/BsNgChiThanh/lservrc/files/8650517/Key.code.SPSS.22.txt)|
-|SPSS 23| [lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646774/lservrc.txt)|[Key code SPSS 23.txt](https://github.com/BsNgChiThanh/lservrc/files/8650528/Key.code.SPSS.23.txt)|
-|SPSS 24|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646775/lservrc.txt)|[Key code SPSS 24.txt](https://github.com/BsNgChiThanh/lservrc/files/8650529/Key.code.SPSS.24.txt)|
-|SPSS 25|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8665249/lservrc.txt)|[Key code SPSS 25.txt](https://github.com/BsNgChiThanh/lservrc/files/8650530/Key.code.SPSS.25.txt)|
-|SPSS 26|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8646781/lservrc.txt)|[Key code SPSS 26.txt](https://github.com/BsNgChiThanh/lservrc/files/8650531/Key.code.SPSS.26.txt)|
-|SPSS 27|[lservrc.txt](https://github.com/BsNgChiThanh/lservrc/files/8658693/lservrc.txt)|[Key code SPSS 27.txt](https://github.com/BsNgChiThanh/lservrc/files/8658696/Key.code.SPSS.27.txt)|
-|SPSS 28|| [Key code SPSS 28.txt](https://github.com/BsNgChiThanh/lservrc/files/8674493/Key.code.SPSS.28.txt)|
-
-**Notes:**
-- **SPSS 28 date 31/8/2022**
-- **Chúng tôi thường xuyên cập nhật code**
 
 https://user-images.githubusercontent.com/82578024/167621709-74e0f636-98f8-4f39-9262-b7fff96a11e6.mp4
 
