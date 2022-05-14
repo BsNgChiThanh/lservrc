@@ -58,7 +58,7 @@ Xem Video!
 
 https://user-images.githubusercontent.com/82578024/167621556-9bdd0c35-5af3-4e62-8a2b-4143aa964b5c.mp4
 
-### Download [lservrc tại đây](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EZjt0kTeYp1Mm8JuEqInPiwBFtZpSnqG35_GYPLGA7Wi1g?e=20jSRx) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ER_2xFzM4FRPoBdhr9bFXEcB5O197OPmL9bSHPSHJXnL-A?e=YIwTPT) không có nội dung, cũng có thể bạn truy cập vào đường dẫn: C:\Program Files (x86)\IBM\SPSS\Statistics\23 hoặc C:\Program Files\IBM\SPSS\Statistics\23 (SPSS 23, nếu là phiên bản 25 thì các bạn chỉ việc thay số 23 thành 25 là được) tìm file lservrc copy ra bên ngoài để chỉnh sửa, xong mở file lservrc đó bằng **Notepad** chép mã  từ file **txt** chia sẻ bên dưới  đây vào (nhớ chọn đúng version của SPSS), **save** lại là có ngay file crack như ý! ###
+### Download [lservrc tại đây](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EZjt0kTeYp1Mm8JuEqInPiwBFtZpSnqG35_GYPLGA7Wi1g?e=20jSRx) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ER_2xFzM4FRPoBdhr9bFXEcB5O197OPmL9bSHPSHJXnL-A?e=YIwTPT) không có nội dung, cũng có thể bạn truy cập vào đường dẫn: C:\Program Files (x86)\IBM\SPSS\Statistics\23 hoặc C:\Program Files\IBM\SPSS\Statistics\23 (SPSS 23, nếu là phiên bản 25 thì các bạn chỉ việc thay số 23 thành 25 là được) tìm file lservrc copy ra bên ngoài để chỉnh sửa, xong mở file lservrc đó bằng **Notepad** chép mã  đã chia sẻ bên dưới vào (nhớ chọn đúng version của SPSS), **save** lại là có ngay file crack như ý! ###
 
 # MỘT SỐ ĐOẠN MÃ CỦA lservrc #
 
