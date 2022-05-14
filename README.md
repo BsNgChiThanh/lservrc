@@ -305,7 +305,7 @@ Một điều lưu ý, khi kích hoạt SPSS 28 cùng một code nhưng mỗi m�
 
 https://user-images.githubusercontent.com/82578024/167621709-74e0f636-98f8-4f39-9262-b7fff96a11e6.mp4
 
-**[Trang hướng dẫn cài đặt, source, và từng bước chinh phục SPSS](https://github.com/BsNgChiThanh/SPSS)**
+**[Trang hướng dẫn cài đặt, source, và từng bước chinh phục SPSS bấm vào đây](https://github.com/BsNgChiThanh/SPSS)**
 
 **[Chia sẻ địa điểm Google map](https://maps.app.goo.gl/wmAPRFYyF3nNeHd87)**
 
