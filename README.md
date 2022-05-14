@@ -124,10 +124,11 @@ Hoặc:
 DH7Z2WU8OD5UARBZEMK5ZKWJT8BG935JYRPVMM5D4DB8TPBEXB9X6TET4KI3KK9HE68MNQYU2V7Z8VTN72L36BYALD7CE7ZV6PW# "1200" version "270", expires Midnight of Aug 31, 2099, exclusive
 ```
 
-SPSS 28 có đoạn mã nhưng làm theo cách này không thành công, đưa ra để tham khảo:
+SPSS 28 có đoạn mã nhưng làm theo cách này không thành công, đưa ra để tham khảo, file **lservrc** nằm trong đường dẫn C:\Program Files\IBM\SPSS Statistics:
 
 ```php
-
+" "
+8IYTLU53UBK4ZMXM3FEOXTROGNLCC4T23L6TT9JD4LXMLVRBXUUHJ2YQCBN46EEUW458N9KY3Q4FGOMJLB99YYSB4ZABJIDGDKC# "1200" version "280", expires Midnight of Sep 30, 2022, exclusive
 ```
 
 # MỘT SỐ CODE, LICENCE KEY KÍCH HOẠT TRỰC TIẾP #
