@@ -255,6 +255,11 @@ Code:
 ```php
 4c4490c24de3f7e8aa1b
 ```
+Hoặc:
+
+```php
+f97111908c59d1ac1f6c
+```
 
 Key: 
 
