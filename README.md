@@ -3,6 +3,7 @@ Tự tạo file lservrc để kích hoạt SPSS version từ 20 đến 27 bằng
 
 **[Telegram group](https://t.me/+hBZ3F71j8OIxODFl)**
 
+![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743995-5b77c11d-e112-4e74-826e-b52f4d326aad.jpg)
 
 # GIỚI THIỆU # 
 
