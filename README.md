@@ -311,5 +311,3 @@ https://user-images.githubusercontent.com/82578024/167621709-74e0f636-98f8-4f39-
 **[Chia sẻ địa điểm Google map](https://maps.app.goo.gl/wmAPRFYyF3nNeHd87)**
 
 ### Chúc các bạn thành công! ###
-
-## [BẤM VÀO ĐÂY, NẾU MUỐN ỦNG HỘ SỰ HOẠT ĐỘNG CỦA KÊNH](https://me.momo.vn/OeIRuaTbfqsmFyiataCM/MvbmqGVrVjLpbYA) ##
